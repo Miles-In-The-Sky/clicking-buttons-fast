@@ -13,7 +13,7 @@ The basics of HTML structure, how to work with REPL.IT and get your hands on a f
 
 After you get the HTML done we will move to CSS where you'll learn how to style a webpage.
 
-**Steps to complete mission**
+**Instructions**
 
 In this mission you will find an `index.html` in the root folder. This `index.html` will link to other pages that are inside the folder `WWW` (exactly the same as the original one). During this mission you will have to create your own `.html` files as well as subfolders. 
 
@@ -34,9 +34,11 @@ Quick Intro:
 <br>
 
 #### Curated Learning Resources (fill in at the end)
+Learning blocks: If you are feeling lost on how to start, you can read this (~45min) and have an overview of what HTML is and some of the main elements. 
+
 * [Basics of HTML - Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-* ...
-* ...
+* [Video done by creator solving a few pages](...)
+* [Another video done by creator solving some other](....)
 
 #### Solution Videos (see playbook here)
 * ...
